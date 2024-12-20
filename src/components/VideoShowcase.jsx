@@ -3,7 +3,7 @@ import React from 'react'
 const VideoShowcase = () => {
   return (
     <div>
-      video showcase
+     Playing demo videos
     </div>
   )
 }
